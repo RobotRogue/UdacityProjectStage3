@@ -170,3 +170,21 @@ padding-left:3em;
 .fourtabs { /* For adding two tabs when displaying and formatting code*/
 padding-left:4em;
 }
+
+/* Styling used for the Inheritance examples */
+
+.big_pink_text{
+color: #FF66CC;
+font-size: 18px;
+}
+
+.ugly_font{
+font-family: "Comic Sans MS", cursive, sans-serif;
+font-style: italic;
+}
+
+.ugly_font_override{
+font-family: "Comic Sans MS", cursive, sans-serif;
+font-style: italic;
+font-size: 12px;
+}
